@@ -6,18 +6,34 @@
 
 ```
 D:\BMCY
-├── tea-rag/         Python RAG 服务（FastAPI + LangChain + Chroma + DeepSeek）
-├── tea-backend/     Java 后端（Spring Boot 4 + SQLite/JPA）
-├── tea-frontend/    uni-app 前端（Vue3，选茶卡片 + 成分可视化 + 智能问答）
-├── start-all.bat    一键启动后端（RAG + SpringBoot）
-└── stop-all.bat     一键停止
+├── tea-rag/          Python RAG 服务（FastAPI + LangChain + Chroma + DeepSeek）
+├── tea-backend/      Java 后端（Spring Boot 4 + SQLite/JPA）
+├── tea-frontend/     uni-app 前端（Vue3）
+├── docs/             开发踩坑记录
+├── start-all.bat     一键启动全部后端服务
+├── start-rag.bat     单独启动 RAG 服务
+├── start-backend.bat 单独启动 SpringBoot 服务
+└── stop-all.bat      一键停止全部服务
 ```
 
-| 服务 | 端口 | 技术栈 | 说明 |
-|------|------|--------|------|
-| RAG 服务 | 8000 | FastAPI + LangChain + Chroma + DeepSeek | 茶叶知识问答 |
-| 后端 | 8080 | Spring Boot 4 + JPA + SQLite | 茶品/成分/风味数据、硬件数据接收 |
-| 前端 | H5/小程序 | uni-app + Vue3 | 选茶卡片、成分可视化、问答 |
+### 三个子项目
+
+| 服务 | 端口 | 技术栈 | 主要功能 |
+|------|------|--------|---------|
+| **tea-rag** | 8000 | FastAPI + LangChain + Chroma + DeepSeek | 茶叶知识 RAG 问答（`POST /ask`） |
+| **tea-backend** | 8080 | Spring Boot 4 + JPA + SQLite | 茶品/成分/风味数据管理、硬件数据统一接收 |
+| **tea-frontend** | H5/小程序 | uni-app + Vue3 | 选茶卡片、成分可视化、智能问答 |
+
+### 启动脚本（.bat）说明
+
+| 脚本 | 功能 |
+|------|------|
+| `start-all.bat` | **一键启动** RAG + SpringBoot 两个服务，各自开独立窗口；启动前自动清理占用 8000/8080 端口的旧进程 |
+| `start-rag.bat` | 单独启动 Python RAG 服务（端口 8000） |
+| `start-backend.bat` | 单独启动 SpringBoot 后端（端口 8080） |
+| `stop-all.bat` | **一键停止**所有服务（杀掉占用 8000/8080 端口的进程） |
+
+> 前端不在 bat 里启动，需用 HBuilderX 打开 `tea-frontend` 后点「运行到浏览器」。
 
 ## 快速开始
 
@@ -107,6 +123,9 @@ cd tea-rag
 # 4. 重建向量库
 .venv\Scripts\python scripts/build_index.py
 ```
+
+> 📝 OCR 提取国标文本的完整踩坑记录（PDF 乱码、OCR 选型、表格碎片、检索优化等），
+> 见 [docs/OCR国标提取-问题与解决方案.md](docs/OCR国标提取-问题与解决方案.md)。
 
 ---
 
