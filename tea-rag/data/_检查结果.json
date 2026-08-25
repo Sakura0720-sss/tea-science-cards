@@ -1,0 +1,548 @@
+[
+  {
+    "n": 1,
+    "title": "GB31608-2023食品安全国家标准 茶叶",
+    "std_no": "GB31608",
+    "status": "未收录"
+  },
+  {
+    "n": 2,
+    "title": "GB/T 9833.1-2013 紧压茶 第1部分：花砖茶",
+    "std_no": "GB/T9833.1",
+    "hcno": "C69A5F2D8F3B60B0EA0C7DFA371714A9",
+    "name": "GB/T 9833.1-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 3,
+    "title": "GB/T 9833.2-2013 紧压茶 第2部分：黑砖茶",
+    "std_no": "GB/T9833.2",
+    "hcno": "3CE4B13186E1CCD50EB5362F2C7F420E",
+    "name": "GB/T 9833.2-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 4,
+    "title": "GB/T 9833.3-2013 紧压茶 第3部分：茯砖茶",
+    "std_no": "GB/T9833.3",
+    "hcno": "091C05A161EDA8E213B544A82265B8BC",
+    "name": "GB/T 9833.3-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 5,
+    "title": " GB/T 9833.4-2013 紧压茶 第4部分：康砖茶",
+    "std_no": "GB/T9833.4",
+    "hcno": "CECE61DD48F2BB7E2B509396A3C6F090",
+    "name": "GB/T 9833.4-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 6,
+    "title": " GB/T 9833.5-2013 紧压茶 第5部分：沱茶",
+    "std_no": "GB/T9833.5",
+    "hcno": "6E4499D26B7F66A325007FB2EF764AD6",
+    "name": "GB/T 9833.5-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 7,
+    "title": "GB/T 9833.6-2013 紧压茶 第6部分：紧茶",
+    "std_no": "GB/T9833.6",
+    "hcno": "CBB89246977D00C53EA4340CFBF8F29C",
+    "name": "GB/T 9833.6-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 8,
+    "title": "GB/T 9833.7-2013 紧压茶 第7部分：金尖茶",
+    "std_no": "GB/T9833.7",
+    "hcno": "8405FAB3CA204218A7275E7621A3B504",
+    "name": "GB/T 9833.7-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 9,
+    "title": "GB/T 9833.8-2013 紧压茶 第8部分：米砖茶",
+    "std_no": "GB/T9833.8",
+    "hcno": "2967C4ECCD1F412B509F002C103E70ED",
+    "name": "GB/T 9833.8-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 10,
+    "title": "GB/T 9833.9-2013 紧压茶 第9部分：青砖茶",
+    "std_no": "GB/T9833.9",
+    "hcno": "690C3BB3B1F2CD3B42379D29034B343F",
+    "name": "GB/T 9833.9-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 11,
+    "title": "GB/T 13738.1-2017 红茶 第1部分：红碎茶",
+    "std_no": "GB/T13738.1",
+    "hcno": "2308A404838F7DD055B85FF3C2968D7F",
+    "name": "GB/T 13738.1-2017",
+    "caibiao": true,
+    "tag": "采标(无全文)"
+  },
+  {
+    "n": 12,
+    "title": "GB/T 13738.2-2017 红茶 第2部分：工夫红茶",
+    "std_no": "GB/T13738.2",
+    "hcno": "AD0E942E8E2F687B6D062EF4F5B021FB",
+    "name": "GB/T 13738.2-2008",
+    "caibiao": true,
+    "tag": "采标(无全文)"
+  },
+  {
+    "n": 13,
+    "title": "GB/T 13738.3-2012 红茶 第3部分：小种红茶",
+    "std_no": "GB/T13738.3",
+    "hcno": "A4F94E2DCBFBF8BC23C3476BD95F6F04",
+    "name": "GB/T 13738.3-2012",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 14,
+    "title": "GB/T 14456.1-2017 绿茶 第1部分：基本要求",
+    "std_no": "GB/T14456.1",
+    "hcno": "7F25B4AA80BAE91B2F79EB792DC7092D",
+    "name": "GB/T 14456.1-2017",
+    "caibiao": true,
+    "tag": "采标(无全文)"
+  },
+  {
+    "n": 15,
+    "title": "GB/T 14456.2-2018 绿茶 第2部分：大叶种绿茶",
+    "std_no": "GB/T14456.2",
+    "hcno": "C4494ED7960295557D14F9A7AB0FA2C1",
+    "name": "GB/T 14456.2-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 16,
+    "title": "GB/T 14456.3-2016 绿茶 第3部分：中小叶种绿茶",
+    "std_no": "GB/T14456.3",
+    "hcno": "FE99983AC7B4FAAC75F7B3E061615B8A",
+    "name": "GB/T 14456.3-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 17,
+    "title": "GB/T 14456.4-2016 绿茶 第4部分：珠茶",
+    "std_no": "GB/T14456.4",
+    "hcno": "CC6F0E25D3184572DABD48FD8A0BC562",
+    "name": "GB/T 14456.4-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 18,
+    "title": "GB/T 14456.5-2016 绿茶 第5部分：眉茶",
+    "std_no": "GB/T14456.5",
+    "hcno": "377F92ED1EE680E94A95042DCF151B5E",
+    "name": "GB/T 14456.5-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 19,
+    "title": "GB/T 14456.6-2016 绿茶 第6部分：蒸青茶",
+    "std_no": "GB/T14456.6",
+    "hcno": "A6E0827ED215179508E920A84F5FB0AC",
+    "name": "GB/T 14456.6-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 20,
+    "title": "GB/T 18650-2008 地理标志产品 龙井茶",
+    "std_no": "GB/T18650",
+    "hcno": "96D0A5A54BBC305315CDCB3B1E0D90E6",
+    "name": "GB/T 18650-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 21,
+    "title": "GB/T 18665-2008 地理标志产品 蒙山茶",
+    "std_no": "GB/T18665",
+    "hcno": "5551DE8C3A49CEC22CB397B516AF3B16",
+    "name": "GB/T 18665-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 22,
+    "title": "GB/T 18745-2006 地理标志产品 武夷岩茶",
+    "std_no": "GB/T18745",
+    "hcno": "C5934A7695C7A0E1ED8B6803F814C6B0",
+    "name": "GB/T 18745-2006",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 23,
+    "title": "GB/T 18957-2008 地理标志产品 洞庭（山）碧螺春茶",
+    "std_no": "GB/T18957",
+    "hcno": "AF9AC4AB905C93C6F7CB42A7AB4EBF88",
+    "name": "GB/T 18957-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 24,
+    "title": "GB/T 19460-2008 地理标志产品 黄山毛峰茶",
+    "std_no": "GB/T19460",
+    "hcno": "74D2547878A48B143A55D6C3722B6DA7",
+    "name": "GB/T 19460-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 25,
+    "title": "GBT19598-2025地理标志产品质量要求 安溪铁观音",
+    "std_no": "GBT19598",
+    "hcno": "0AF02E33067E3F070C12E03D073D549B",
+    "name": "GB/T 19598-2006",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 26,
+    "title": "GB/T 19691-2008 地理标志产品 狗牯脑茶",
+    "std_no": "GB/T19691",
+    "hcno": "01501C098E64093701321F2357AF8FB4",
+    "name": "GB/T 19691-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 27,
+    "title": " GB/T 19698-2008 地理标志产品 太平猴魁茶",
+    "std_no": "GB/T19698",
+    "hcno": "52240CF61CE240A34E19C7489131D958",
+    "name": "GB/T 19698-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 28,
+    "title": "GB/T 20354-2006 地理标志产品 安吉白茶",
+    "std_no": "GB/T20354",
+    "hcno": "F8B2C0E60DC80B83A79A94E017EBD245",
+    "name": "GB/T 20354-2006",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 29,
+    "title": "GB/T 20360-2006 地理标志产品 乌牛早茶",
+    "std_no": "GB/T20360",
+    "hcno": "F947389ADA723AB45FB74CE6B8627A19",
+    "name": "GB/T 20360-2006",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 30,
+    "title": "GB/T 20605-2006 地理标志产品 雨花茶",
+    "std_no": "GB/T20605",
+    "hcno": "95EE0EF417554C098CFA38BA75A9D60E",
+    "name": "GB/T 20605-2006",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 31,
+    "title": "GB/T 21003-2007 地理标志产品 庐山云雾茶",
+    "std_no": "GB/T21003",
+    "hcno": "9EE1B8AF2BB4B6E07B8EBF58BD21DE6B",
+    "name": "GB/T 21003-2007",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 32,
+    "title": " GB/T 21726-2018 黄茶",
+    "std_no": "GB/T21726",
+    "hcno": "B2878AD1A9F7713562662022F79890EC",
+    "name": "GB/T 21726-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 33,
+    "title": " GB/T 21733-2008 茶饮料",
+    "std_no": "GB/T21733",
+    "hcno": "430408807B0E34C3DFB13DC02C78A2F4",
+    "name": "GB/T 21733-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 34,
+    "title": " GB/T 21824-2008 地理标志产品 永春佛手",
+    "std_no": "GB/T21824",
+    "hcno": "42DCFCD31958B36886425F917F190BED",
+    "name": "GB/T 21824-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 35,
+    "title": "GB/T 22109-2008 地理标志产品 政和白茶",
+    "std_no": "GB/T22109",
+    "hcno": "665B734A34DFA4DB4493EBBB538DBF30",
+    "name": "GB/T 22109-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 36,
+    "title": " GB/T 22111-2008 地理标志产品 普洱茶",
+    "std_no": "GB/T22111",
+    "hcno": "CAF792AAE4A96101F217C44250C8C8E4",
+    "name": "GB/T 22111-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 37,
+    "title": "GB/T 22291-2017 白茶",
+    "std_no": "GB/T22291",
+    "hcno": "A87456F46DAA499E87883069D484F365",
+    "name": "GB/T 22291-2017",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 38,
+    "title": "GB/T 22292-2017 茉莉花茶",
+    "std_no": "GB/T22292",
+    "hcno": "82002D9C6A164CDC8865DCCE5561E814",
+    "name": "GB/T 22292-2017",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 39,
+    "title": "GB/T 22737-2008 地理标志产品 信阳毛尖茶",
+    "std_no": "GB/T22737",
+    "hcno": "3776C98AEFD24228A55810EDDEBA073B",
+    "name": "GB/T 22737-2008",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 40,
+    "title": "  GB/T 24690-2018 袋泡茶",
+    "std_no": "GB/T24690",
+    "hcno": "F0B3F39BE86144899115175EC5FE471F",
+    "name": "GB/T 24690-2009",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 41,
+    "title": "GBT24710-2026地理标志产品质量要求 坦垟工夫",
+    "std_no": "GBT24710",
+    "hcno": "A4C8702091700240281FD008498D01EB",
+    "name": "GB/T 24710-2009",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 42,
+    "title": "GB/T26530-2011地理标志产品 崂山绿茶",
+    "std_no": "GB/T26530",
+    "hcno": "F2C582954B630BF47C6D29A49DB44229",
+    "name": "GB/T 26530-2011",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 43,
+    "title": " GB/T 30357.1-2013 乌龙茶 第1部分：基本要求 ",
+    "std_no": "GB/T30357.1",
+    "hcno": "EBD75EE788E705C2450E7D9239BBD366",
+    "name": "GB/T 30357.1-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 44,
+    "title": " GB/T 30357.2-2013 乌龙茶 第2部分：铁观音",
+    "std_no": "GB/T30357.2",
+    "hcno": "9EE7AF384DEAA63007FF82EAD6E5A73C",
+    "name": "GB/T 30357.2-2013",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 45,
+    "title": "GB/T 30357.3-2015 乌龙茶 第3部分：黄金桂",
+    "std_no": "GB/T30357.3",
+    "hcno": "1284CEDE7DE9068DC5FD1E1DAA41ADF3",
+    "name": "GB/T 30357.3-2015",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 46,
+    "title": "GB/T 30357.4-2015 乌龙茶 第4部分：水仙",
+    "std_no": "GB/T30357.4",
+    "hcno": "C291A14DC35F8AF4F17428B45033B096",
+    "name": "GB/T 30357.4-2015",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 47,
+    "title": " GB/T 30357.5－2015 乌龙茶 第5部分：肉桂",
+    "std_no": "GB/T30357.5",
+    "hcno": "920F228EC1B1C17D1B02F99E2C908D91",
+    "name": "GB/T 30357.5-2015",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 48,
+    "title": "GB/T 30357.6-2017 乌龙茶第6部分：单丛",
+    "std_no": "GB/T30357.6",
+    "hcno": "C0D6AF30D4D2C7972955DFA2E07281CD",
+    "name": "GB/T 30357.6-2017",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 49,
+    "title": "GB/T 30357.7-2017 乌龙茶 第7部分：佛手",
+    "std_no": "GB/T30357.7",
+    "hcno": "1705BC4F5A01FABE554A5D368E8483BB",
+    "name": "GB/T 30357.7-2017",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 50,
+    "title": " GB/T 30357.9-2020 乌龙茶 第9部分：白芽奇兰",
+    "std_no": "GB/T30357.9",
+    "hcno": "1EA3E43607E8F0E882704E27ED943125",
+    "name": "GB/T 30357.9-2020",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 51,
+    "title": "GB/T 31740.1-2015 茶制品 第1部分：固态速溶茶",
+    "std_no": "GB/T31740.1",
+    "hcno": "6AEFD284978CB134570B4938B96D4D09",
+    "name": "GB/T 31740.1-2015",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 52,
+    "title": " GB/T 31740.3-2015 茶制品 第3部分：茶黄素",
+    "std_no": "GB/T31740.3",
+    "hcno": "328E26576CF0D2782BFD8EC40315A359",
+    "name": "GB/T 31740.3-2015",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 53,
+    "title": "GB/T 31740.2-2015 茶制品 第2部分：茶多酚",
+    "std_no": "GB/T31740.2",
+    "hcno": "B4F2644A6A9F2C84A7F974C0A253410A",
+    "name": "GB/T 31740.2-2015",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 54,
+    "title": "GB/T31751-2015紧压白茶",
+    "std_no": "GB/T31751",
+    "hcno": "2C44C1B333ED968807DEE56189E93FDB",
+    "name": "GB/T 31751-2015",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 55,
+    "title": "GB/T 32719.1-2016 黑茶 第1部分：基本要求",
+    "std_no": "GB/T32719.1",
+    "hcno": "92C6C147AEC7B6F8E5377AF787EAFEF8",
+    "name": "GB/T 32719.1-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 56,
+    "title": "  GB/T 32719.2-2016 黑茶 第2部分：花卷茶",
+    "std_no": "GB/T32719.2",
+    "hcno": "9E718D9FB12C3E07B687E06BF3C15AF3",
+    "name": "GB/T 32719.2-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 57,
+    "title": "GB/T 32719.3-2016 黑茶 第3部分：湘尖茶",
+    "std_no": "GB/T32719.3",
+    "hcno": "51957325D5B1582F5C7275C84B9B01AA",
+    "name": "GB/T 32719.3-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 58,
+    "title": "GB/T 32719.4-2016 黑茶 第4部分：六堡茶",
+    "std_no": "GB/T32719.4",
+    "hcno": "30955F6226834F18DF3249F8B5BF18A7",
+    "name": "GB/T 32719.4-2016",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 59,
+    "title": "GB/T 32719.5-2018 黑茶 第5部分：茯茶",
+    "std_no": "GB/T32719.5",
+    "hcno": "D20150CDC8912F3DCF9715ABD654F6DE",
+    "name": "GB/T 32719.5-2018",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 60,
+    "title": "  GB/T 34778-2017 抹茶",
+    "std_no": "GB/T34778",
+    "hcno": "06FB42343C25BC93F57EFA88F3459C49",
+    "name": "GB/T 34778-2017",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  },
+  {
+    "n": 61,
+    "title": "GB/T 39563-2020 台式乌龙茶",
+    "std_no": "GB/T39563",
+    "hcno": "A60DC75862947B51B76CF9C5630FBD6D",
+    "name": "GB/T 39563-2020",
+    "caibiao": false,
+    "tag": "非采标(可能有全文)"
+  }
+]

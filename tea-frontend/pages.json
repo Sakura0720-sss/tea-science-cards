@@ -1,0 +1,22 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "中国茶科学卡片"
+			}
+		},
+		{
+			"path": "pages/detail/detail",
+			"style": {
+				"navigationBarTitleText": "茶品详情"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "中国茶科学卡片",
+		"navigationBarBackgroundColor": "#1a6b4a",
+		"backgroundColor": "#f5f5f0"
+	}
+}

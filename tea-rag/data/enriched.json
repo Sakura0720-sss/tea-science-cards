@@ -1,0 +1,912 @@
+{
+  "OCR_GBT18650_GBT18650-2008地理标志产品龙井茶.md": {
+    "origin": "杭州市西湖区（西湖风景名胜区）现辖行政区域为西湖产区；杭州市萧山、滨江、余杭、富阳、临安、桐庐、建德、淳安等县（市、区）现辖行政区域为钱塘产区；绍兴市绍兴、越城、新昌、嵊州、诸暨等县（市、区）现辖行政区域以及上虞、磐安、东阳、天台等县（市）现辖部分乡镇区域为越州产区",
+    "process": "鲜叶摊放、青锅、摊凉回潮、辉锅",
+    "flavor": "色绿、香郁、味醇、形美，具有清香持久、鲜醇甘爽的特点",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 36.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "龙井茶",
+    "sourceFile": "OCR_GBT18650_GBT18650-2008地理标志产品龙井茶.md"
+  },
+  "OCR_GB31608_GB31608-2023食品安全国家标准茶叶.md": {
+    "origin": "",
+    "process": "",
+    "flavor": "",
+    "compositions": [],
+    "teaName": "食品安全国家标准茶叶",
+    "sourceFile": "OCR_GB31608_GB31608-2023食品安全国家标准茶叶.md"
+  },
+  "OCR_GB_T13738.1-2017_红碎茶.md": {
+    "origin": "",
+    "process": "萎凋、揉切、发酵、干燥",
+    "flavor": "香气强烈持久，滋味浓强鲜爽",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 34,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 9.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "红碎茶",
+    "sourceFile": "OCR_GB_T13738.1-2017_红碎茶.md"
+  },
+  "OCR_GB_T13738.2-2017_工夫红茶.md": {
+    "origin": "",
+    "process": "萎凋、揉捻、发酵、干燥和精制加工工艺",
+    "flavor": "甜香浓郁，鲜醇较浓",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 34,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 9,
+        "unit": "%"
+      }
+    ],
+    "teaName": "工夫红茶",
+    "sourceFile": "OCR_GB_T13738.2-2017_工夫红茶.md"
+  },
+  "OCR_GB_T13738.3-2012_小种红茶.md": {
+    "origin": "武夷山市星村镇桐木村及武夷山自然保护区域",
+    "process": "萎凋（熏松烟）、揉捻、发酵、干燥（熏松烟）和精制加工",
+    "flavor": "似桂圆干香味及松烟香，醇厚回甘",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 33,
+        "unit": "%"
+      }
+    ],
+    "teaName": "小种红茶",
+    "sourceFile": "OCR_GB_T13738.3-2012_小种红茶.md"
+  },
+  "OCR_GBT14456.1_GBT14456.1-2017绿茶第1部分：基本要求.md": {
+    "origin": "",
+    "process": "杀青、揉捻、干燥",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 34.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 11.0,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素",
+        "value": 7.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "绿茶第1部分：基本要求",
+    "sourceFile": "OCR_GBT14456.1_GBT14456.1-2017绿茶第1部分：基本要求.md"
+  },
+  "OCR_GBT14456.2_GBT14456.2-2018绿茶第2部分：大叶种绿茶.md": {
+    "origin": "",
+    "process": "摊青、杀青、揉捻、干燥、整形",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 36.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 16.0,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素",
+        "value": 11.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "绿茶第2部分：大叶种绿茶",
+    "sourceFile": "OCR_GBT14456.2_GBT14456.2-2018绿茶第2部分：大叶种绿茶.md"
+  },
+  "OCR_GBT14456.3_GBT14456.3-2016绿茶第3部分：中小叶种绿茶.md": {
+    "origin": "",
+    "process": "杀青、揉捻、干燥",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 35.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 13.0,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素",
+        "value": 0.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "绿茶第3部分：中小叶种绿茶",
+    "sourceFile": "OCR_GBT14456.3_GBT14456.3-2016绿茶第3部分：中小叶种绿茶.md"
+  },
+  "OCR_GBT14456.4_GBT14456.4-2016绿茶第4部分：珠茶.md": {
+    "origin": "",
+    "process": "以圆炒青绿茶为原料，经筛分、风选、整形、剔除、拼配等精制工序制成",
+    "flavor": "浓醇、纯正、平和，黄绿明亮",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 33.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 0,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素",
+        "value": 0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "绿茶第4部分：珠茶",
+    "sourceFile": "OCR_GBT14456.4_GBT14456.4-2016绿茶第4部分：珠茶.md"
+  },
+  "OCR_GBT14456.5_GBT14456.5-2016绿茶第5部分：眉茶.md": {
+    "origin": "",
+    "process": "以长炒青绿茶为原料，经筛分、切轧、风选、拣剔、车色、拼配等精制工序制成",
+    "flavor": "高香持久，鲜浓醇厚",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 36.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 13,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素",
+        "value": 12,
+        "unit": "%"
+      }
+    ],
+    "teaName": "绿茶第5部分：眉茶",
+    "sourceFile": "OCR_GBT14456.5_GBT14456.5-2016绿茶第5部分：眉茶.md"
+  },
+  "OCR_GBT14456.6_GBT14456.6-2016绿茶第6部分：蒸青茶.md": {
+    "origin": "",
+    "process": "蒸汽杀青、揉捻、干燥、成型",
+    "flavor": "清香，鲜醇",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 36.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 14,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素",
+        "value": 11,
+        "unit": "%"
+      }
+    ],
+    "teaName": "绿茶第6部分：蒸青茶",
+    "sourceFile": "OCR_GBT14456.6_GBT14456.6-2016绿茶第6部分：蒸青茶.md"
+  },
+  "OCR_GBT18665_GBT18665-2008地理标志产品蒙山茶.md": {
+    "origin": "四川雅安蒙顶山一带",
+    "process": "杀青、揉捻、干燥、做形提毫、烘焙提香等",
+    "flavor": "甜香馥郁或嫩香持久，鲜爽甘醇",
+    "compositions": [],
+    "teaName": "蒙山茶",
+    "sourceFile": "OCR_GBT18665_GBT18665-2008地理标志产品蒙山茶.md"
+  },
+  "OCR_GBT18745_GBT18745-2006地理标志产品武夷岩茶.md": {
+    "origin": "福建省武夷山市所辖行政区域范围",
+    "process": "晒青或萎凋、做青、杀青、揉捻、烘干、摊凉、复烘",
+    "flavor": "岩韵明显，醇厚回甘，杯底有余香",
+    "compositions": [],
+    "teaName": "武夷岩茶",
+    "sourceFile": "OCR_GBT18745_GBT18745-2006地理标志产品武夷岩茶.md"
+  },
+  "OCR_GBT18957_GBT18957-2008地理标志产品洞庭（山）碧螺春茶.md": {
+    "origin": "江苏苏州洞庭山（含洞庭东山、洞庭西山）",
+    "process": "鲜叶拣剔、高温杀青、热揉成形、搓团显毫、文火干燥",
+    "flavor": "香气清鲜，滋味鲜醇甘甜",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 34.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "洞庭（山）碧螺春茶",
+    "sourceFile": "OCR_GBT18957_GBT18957-2008地理标志产品洞庭（山）碧螺春茶.md"
+  },
+  "OCR_GBT19460_GBT19460-2008地理标志产品黄山毛峰茶.md": {
+    "origin": "安徽省黄山市管辖的行政区域内屯溪区、黄山区、徽州区、歙县、休宁县、祁门县、黟县的产茶乡镇",
+    "process": "鲜叶摊放、杀青、做形（理条或揉捻）、毛火、摊凉、足火",
+    "flavor": "香气高长持久，滋味鲜爽回甘",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 35.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "黄山毛峰茶",
+    "sourceFile": "OCR_GBT19460_GBT19460-2008地理标志产品黄山毛峰茶.md"
+  },
+  "OCR_GBT19598_GBT19598-2025地理标志产品质量要求安溪铁观音.md": {
+    "origin": "福建省安溪县管辖的行政区域",
+    "process": "萎凋（晒青）、晾青、摇青、杀青、揉捻、初烘、初包揉、复烘、复包揉、烘干",
+    "flavor": "清香型：清香高长，鲜醇甘爽，音韵明显；浓香型：浓郁持久，醇厚甘爽，音韵明显；陈香型：陈香浓郁，醇厚顺滑，音韵明显",
+    "compositions": [],
+    "teaName": "质量要求安溪铁观音",
+    "sourceFile": "OCR_GBT19598_GBT19598-2025地理标志产品质量要求安溪铁观音.md"
+  },
+  "OCR_GBT19691_GBT19691-2008地理标志产品狗牯脑茶.md": {
+    "origin": "江西省遂川县现辖行政区域",
+    "process": "独特的传统工艺加工而成",
+    "flavor": "香气清鲜幽雅，滋味鲜醇甘爽，回味甘爽悠长",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 38.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "狗牯脑茶",
+    "sourceFile": "OCR_GBT19691_GBT19691-2008地理标志产品狗牯脑茶.md"
+  },
+  "OCR_GBT19698_GBT19698-2008地理标志产品太平猴魁茶.md": {
+    "origin": "安徽省黄山市黄山区（原太平县）现辖行政区域",
+    "process": "拣尖摊放、杀青（理条）、烘焙（做形分三次，头烘、二烘、三烘）、足火",
+    "flavor": "兰花香高爽，滋味甘醇",
+    "compositions": [],
+    "teaName": "太平猴魁茶",
+    "sourceFile": "OCR_GBT19698_GBT19698-2008地理标志产品太平猴魁茶.md"
+  },
+  "OCR_GBT20354_GBT20354-2006地理标志产品安吉白茶.md": {
+    "origin": "浙江省安吉县现辖行政区域",
+    "process": "摊青、杀青、摊凉、干燥",
+    "flavor": "嫩香持久，鲜醇甘爽",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32,
+        "unit": "%"
+      },
+      {
+        "name": "游离氨基酸总量",
+        "value": 5.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "安吉白茶",
+    "sourceFile": "OCR_GBT20354_GBT20354-2006地理标志产品安吉白茶.md"
+  },
+  "OCR_GBT20360_GBT20360-2006地理标志产品乌牛早茶.md": {
+    "origin": "浙江省永嘉县现辖行政区域",
+    "process": "鲜叶分级、摊青、青锅、凉回潮、辉锅、拣梗剔杂、包装",
+    "flavor": "香高持久，汤色绿明亮，甘醇鲜爽",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 37.0,
+        "unit": "%"
+      },
+      {
+        "name": "氨基酸",
+        "value": 3.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 24.8,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌牛早茶",
+    "sourceFile": "OCR_GBT20360_GBT20360-2006地理标志产品乌牛早茶.md"
+  },
+  "OCR_GBT20605_GBT20605-2006地理标志产品雨花茶.md": {
+    "origin": "江苏省南京市城区的中山陵园、雨花台烈士陵园、江宁区、溧水县、高淳县、浦口区、六合区、雨花台区、栖霞区现辖行政区域",
+    "process": "鲜叶采摘、摊放、揉捻、毛火、整形、足火、精制、包装",
+    "flavor": "清香高长，鲜醇",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 35.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "雨花茶",
+    "sourceFile": "OCR_GBT20605_GBT20605-2006地理标志产品雨花茶.md"
+  },
+  "OCR_GBT21003_GBT21003-2007地理标志产品庐山云雾茶.md": {
+    "origin": "江西九江庐山风景区及环山周边乡镇",
+    "process": "杀青、揉捻、二青（理条、提毫）、烘干",
+    "flavor": "清香持久，滋味鲜醇回甘",
+    "compositions": [],
+    "teaName": "庐山云雾茶",
+    "sourceFile": "OCR_GBT21003_GBT21003-2007地理标志产品庐山云雾茶.md"
+  },
+  "OCR_GBT21726_GBT21726-2018黄茶.md": {
+    "origin": "",
+    "process": "摊青、杀青、揉捻（做形）、闷黄、干燥、精制或蒸压成型",
+    "flavor": "清鲜、清高、纯正、有锅巴香，滋味鲜醇回甘、醇厚回甘、醇和",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "黄茶",
+    "sourceFile": "OCR_GBT21726_GBT21726-2018黄茶.md"
+  },
+  "OCR_GBT21733_GBT21733-2008茶饮料.md": {
+    "origin": "",
+    "process": "",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "茶多酚",
+        "value": 300,
+        "unit": "mg/kg"
+      },
+      {
+        "name": "咖啡因",
+        "value": 40,
+        "unit": "mg/kg"
+      }
+    ],
+    "teaName": "茶饮料",
+    "sourceFile": "OCR_GBT21733_GBT21733-2008茶饮料.md"
+  },
+  "OCR_GBT21824_GBT21824-2008地理标志产品永春佛手.md": {
+    "origin": "福建省泉州市永春县现辖行政区域",
+    "process": "初制工艺：筛分——成品茶；精制工艺：毛茶—验收→堆排配→筛分风选正茶取梗→匀堆→烘焙摊凉匀堆排配复拣→成品包装",
+    "flavor": "香气浓郁，品种香明显；滋味醇厚甘爽，品种特征明显；汤色金黄清澈明亮",
+    "compositions": [],
+    "teaName": "永春佛手",
+    "sourceFile": "OCR_GBT21824_GBT21824-2008地理标志产品永春佛手.md"
+  },
+  "OCR_GBT22109_GBT22109-2008地理标志产品政和白茶.md": {
+    "origin": "福建省政和县",
+    "process": "不杀青、不揉捻的独特加工工艺",
+    "flavor": "清鲜、纯爽、毫香",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "政和白茶",
+    "sourceFile": "OCR_GBT22109_GBT22109-2008地理标志产品政和白茶.md"
+  },
+  "OCR_GBT22111_GBT22111-2008地理标志产品普洱茶.md": {
+    "origin": "云南境内适合云南大叶种茶栽培和普洱茶加工的区域，为北纬21°10′～26°22′，东经97°31′～105°38′的区域，茶园主要分布于海拔1000m～2100m的中山山地。",
+    "process": "晒青茶经后发酵、蒸压成型、干燥等特定加工工艺制成。",
+    "flavor": "香气清纯或陈香浓郁，滋味浓醇回甘或醇厚回甘，汤色明亮或红浓明亮。",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 35.0,
+        "unit": "%"
+      },
+      {
+        "name": "茶多酚",
+        "value": 28.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "普洱茶",
+    "sourceFile": "OCR_GBT22111_GBT22111-2008地理标志产品普洱茶.md"
+  },
+  "OCR_GBT22291_GBT22291-2017白茶.md": {
+    "origin": "",
+    "process": "萎凋、干燥、拣剔",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "白茶",
+    "sourceFile": "OCR_GBT22291_GBT22291-2017白茶.md"
+  },
+  "OCR_GBT22292_GBT22292-2017茉莉花茶.md": {
+    "origin": "",
+    "process": "以绿茶为原料，加工成级型坯后，经茉莉鲜花窨制（含白兰鲜花打底）而成",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 34,
+        "unit": "%"
+      }
+    ],
+    "teaName": "茉莉花茶",
+    "sourceFile": "OCR_GBT22292_GBT22292-2017茉莉花茶.md"
+  },
+  "OCR_GBT24690_GBT24690-2018袋泡茶.md": {
+    "origin": "",
+    "process": "",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 30.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "袋泡茶",
+    "sourceFile": "OCR_GBT24690_GBT24690-2018袋泡茶.md"
+  },
+  "OCR_GBT24710_GBT24710-2026地理标志产品质量要求坦垟工夫.md": {
+    "origin": "福建省福安市现辖行政区域内",
+    "process": "萎凋（轻摇）、揉捻、发酵、干燥初制工艺和精制工艺",
+    "flavor": "甜醇型：香气甜香浓郁、滋味鲜甜浓醇；花果香型：花香显露、滋味浓醇甜爽、汤中有香",
+    "compositions": [],
+    "teaName": "质量要求坦垟工夫",
+    "sourceFile": "OCR_GBT24710_GBT24710-2026地理标志产品质量要求坦垟工夫.md"
+  },
+  "OCR_GBT26530_GBT26530-2011地理标志产品崂山绿茶.md": {
+    "origin": "青岛市崂山区的中韩街道、沙子口街道、王哥庄街道、北宅街道现辖行政区域",
+    "process": "扁形绿茶：摊青→杀青→理条→做形（压扁）→辉干→包装；卷曲形绿茶工艺未明确",
+    "flavor": "豌豆香、栗香，滋味鲜醇、醇厚、醇正",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 37.0,
+        "unit": "%"
+      },
+      {
+        "name": "游离氨基酸总量",
+        "value": 3.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "崂山绿茶",
+    "sourceFile": "OCR_GBT26530_GBT26530-2011地理标志产品崂山绿茶.md"
+  },
+  "OCR_GBT30357.1_GBT30357.1-2013乌龙茶第1部分：基本要求.md": {
+    "origin": "",
+    "process": "适度萎凋、做青、杀青、揉捻（包揉）、干燥",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌龙茶第1部分：基本要求",
+    "sourceFile": "OCR_GBT30357.1_GBT30357.1-2013乌龙茶第1部分：基本要求.md"
+  },
+  "OCR_GBT30357.2_GBT30357.2-2013乌龙茶第2部分：铁观音.md": {
+    "origin": "",
+    "process": "萎凋、做青、杀青、揉捻（包揉）、烘干",
+    "flavor": "香气清高或浓郁，滋味鲜醇或醇厚，音韵明显",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌龙茶第2部分：铁观音",
+    "sourceFile": "OCR_GBT30357.2_GBT30357.2-2013乌龙茶第2部分：铁观音.md"
+  },
+  "OCR_GBT30357.3_GBT30357.3-2015乌龙茶第3部分：黄金桂.md": {
+    "origin": "",
+    "process": "依次经萎凋、做青、杀青、揉捻（包揉）、烘干等独特工艺过程制成",
+    "flavor": "花香清高持久，滋味清醇鲜爽，品种特征显",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌龙茶第3部分：黄金桂",
+    "sourceFile": "OCR_GBT30357.3_GBT30357.3-2015乌龙茶第3部分：黄金桂.md"
+  },
+  "OCR_GBT30357.4_GBT30357.4-2015乌龙茶第4部分：水仙.md": {
+    "origin": "",
+    "process": "适度萎凋、做青、杀青、揉捻、烘干",
+    "flavor": "香气浓郁或清长，滋味鲜醇浓爽或醇厚甘爽",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌龙茶第4部分：水仙",
+    "sourceFile": "OCR_GBT30357.4_GBT30357.4-2015乌龙茶第4部分：水仙.md"
+  },
+  "OCR_GBT30357.5_GBT30357.5－2015乌龙茶第5部分：肉桂.md": {
+    "origin": "",
+    "process": "适度萎凋、做青、杀青、揉捻、干燥",
+    "flavor": "浓郁持久，似有乳香或蜜桃香或桂皮香，醇厚鲜爽",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌龙茶第5部分：肉桂",
+    "sourceFile": "OCR_GBT30357.5_GBT30357.5－2015乌龙茶第5部分：肉桂.md"
+  },
+  "OCR_GBT30357.6_GBT30357.6-2017乌龙茶第6部分：单丛.md": {
+    "origin": "",
+    "process": "适度萎凋、做青、杀青、揉捻（包揉）、烘干",
+    "flavor": "花蜜香，滋味甜醇回甘，有高山韵或蜜韵",
+    "compositions": [],
+    "teaName": "乌龙茶第6部分：单丛",
+    "sourceFile": "OCR_GBT30357.6_GBT30357.6-2017乌龙茶第6部分：单丛.md"
+  },
+  "OCR_GBT30357.7_GBT30357.7-2017乌龙茶第7部分：佛手.md": {
+    "origin": "",
+    "process": "萎凋、做青、杀青、揉捻（包揉）、烘干",
+    "flavor": "清香型：清高持久，品种香明显，醇厚甘爽；浓香型：熟果香显，火功香，醇厚回甘；陈香型：陈香浓郁，醇厚回甘",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌龙茶第7部分：佛手",
+    "sourceFile": "OCR_GBT30357.7_GBT30357.7-2017乌龙茶第7部分：佛手.md"
+  },
+  "OCR_GBT30357.9_GBT30357.9-2020乌龙茶第9部分：白芽奇兰.md": {
+    "origin": "",
+    "process": "适度萎凋、做青、杀青、揉捻（包揉）、干燥",
+    "flavor": "清雅幽长，鲜醇甘爽",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32,
+        "unit": "%"
+      }
+    ],
+    "teaName": "乌龙茶第9部分：白芽奇兰",
+    "sourceFile": "OCR_GBT30357.9_GBT30357.9-2020乌龙茶第9部分：白芽奇兰.md"
+  },
+  "OCR_GBT31740.1_GBT31740.1-2015茶制品第1部分：固态速溶茶.md": {
+    "origin": "",
+    "process": "水提（或采用茶鲜叶榨汁）、过滤、浓缩、干燥",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "茶多酚",
+        "value": 17.5,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素",
+        "value": 10,
+        "unit": "%"
+      },
+      {
+        "name": "茶黄素",
+        "value": 0.3,
+        "unit": "%"
+      },
+      {
+        "name": "咖啡碱",
+        "value": 15,
+        "unit": "%"
+      }
+    ],
+    "teaName": "茶制品第1部分：固态速溶茶",
+    "sourceFile": "OCR_GBT31740.1_GBT31740.1-2015茶制品第1部分：固态速溶茶.md"
+  },
+  "OCR_GBT31740.2_GBT31740.2-2015茶制品第2部分：茶多酚.md": {
+    "origin": "",
+    "process": "以茶叶或茶鲜叶为原料，经提取而成",
+    "flavor": "味涩",
+    "compositions": [
+      {
+        "name": "茶多酚",
+        "value": 70,
+        "unit": "%"
+      },
+      {
+        "name": "儿茶素类",
+        "value": 50,
+        "unit": "%"
+      },
+      {
+        "name": "咖啡碱",
+        "value": 5,
+        "unit": "%"
+      }
+    ],
+    "teaName": "茶制品第2部分：茶多酚",
+    "sourceFile": "OCR_GBT31740.2_GBT31740.2-2015茶制品第2部分：茶多酚.md"
+  },
+  "OCR_GBT31740.3_GBT31740.3-2015茶制品第3部分：茶黄素.md": {
+    "origin": "",
+    "process": "以茶鲜叶、茶叶提取液或茶多酚为原料，经酶促转化、分离制备而成",
+    "flavor": "味涩",
+    "compositions": [
+      {
+        "name": "茶黄素",
+        "value": 40,
+        "unit": "%"
+      },
+      {
+        "name": "咖啡碱",
+        "value": 10,
+        "unit": "%"
+      }
+    ],
+    "teaName": "茶制品第3部分：茶黄素",
+    "sourceFile": "OCR_GBT31740.3_GBT31740.3-2015茶制品第3部分：茶黄素.md"
+  },
+  "OCR_GBT31751_GBT31751-2015紧压白茶.md": {
+    "origin": "",
+    "process": "以白茶为原料，经整理、拼配、蒸压定型、干燥等工序制成",
+    "flavor": "浓醇、毫味显，清纯、毫香显",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 34.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压白茶",
+    "sourceFile": "OCR_GBT31751_GBT31751-2015紧压白茶.md"
+  },
+  "OCR_GBT32719.1_GBT32719.1-2016黑茶第1部分：基本要求.md": {
+    "origin": "",
+    "process": "杀青、揉捻、渥堆、干燥",
+    "flavor": "",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 24.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "黑茶第1部分：基本要求",
+    "sourceFile": "OCR_GBT32719.1_GBT32719.1-2016黑茶第1部分：基本要求.md"
+  },
+  "OCR_GBT32719.2_GBT32719.2-2016黑茶第2部分：花卷茶.md": {
+    "origin": "",
+    "process": "筛分、栋剔、半成品拼堆、汽蒸、装篓、压制、（日晒）干燥",
+    "flavor": "醇厚或微涩，纯正或带松烟香、菌花香",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 24.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "黑茶第2部分：花卷茶",
+    "sourceFile": "OCR_GBT32719.2_GBT32719.2-2016黑茶第2部分：花卷茶.md"
+  },
+  "OCR_GBT32719.3_GBT32719.3-2016黑茶第3部分：湘尖茶.md": {
+    "origin": "湖南安化",
+    "process": "筛分、复火烘焙、剔、半成品拼配、汽蒸、装篓、压制成型、打汽针、凉置通风干燥、成品包装",
+    "flavor": "纯浓或带松烟香，浓厚",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 24.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "黑茶第3部分：湘尖茶",
+    "sourceFile": "OCR_GBT32719.3_GBT32719.3-2016黑茶第3部分：湘尖茶.md"
+  },
+  "OCR_GBT32719.4_GBT32719.4-2016黑茶第4部分：六堡茶.md": {
+    "origin": "广西苍梧县",
+    "process": "杀青、初揉、堆闷、复揉、干燥制成毛茶，再经筛选、拼配、汽蒸、渥堆、压制成型、陈化等工艺",
+    "flavor": "陈香纯正，滋味陈、醇厚",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 26.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "黑茶第4部分：六堡茶",
+    "sourceFile": "OCR_GBT32719.4_GBT32719.4-2016黑茶第4部分：六堡茶.md"
+  },
+  "OCR_GBT32719.5_GBT32719.5-2018黑茶第5部分：茯茶.md": {
+    "origin": "",
+    "process": "毛茶筛分、半成品拼配、渥堆、汽蒸、压制（或不压制）成型、发花、干燥、成品包装",
+    "flavor": "纯正菌花香，醇正，橙黄明亮",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 25,
+        "unit": "%"
+      }
+    ],
+    "teaName": "黑茶第5部分：茯茶",
+    "sourceFile": "OCR_GBT32719.5_GBT32719.5-2018黑茶第5部分：茯茶.md"
+  },
+  "OCR_GBT34778_GBT34778-2017抹茶.md": {
+    "origin": "",
+    "process": "采用覆盖栽培的茶树鲜叶经蒸汽（或热风）杀青后、干燥制成的叶片为原料，经研磨工艺加工而成",
+    "flavor": "覆盖香显著，鲜纯味浓",
+    "compositions": [
+      {
+        "name": "茶氨酸",
+        "value": 0.75,
+        "unit": "%"
+      }
+    ],
+    "teaName": "抹茶",
+    "sourceFile": "OCR_GBT34778_GBT34778-2017抹茶.md"
+  },
+  "OCR_GBT39563_GBT39563-2020台式乌龙茶.md": {
+    "origin": "",
+    "process": "萎凋、做青、杀青、回润、揉捻、干燥（烘焙）",
+    "flavor": "清香型清新纯正，熟香型带熟果香，蜜香型带蜜果香",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 32,
+        "unit": "%"
+      }
+    ],
+    "teaName": "台式乌龙茶",
+    "sourceFile": "OCR_GBT39563_GBT39563-2020台式乌龙茶.md"
+  },
+  "OCR_GBT9833.1_GBT9833.1-2013紧压茶第1部分：花砖茶.md": {
+    "origin": "",
+    "process": "毛茶筛分、半成品拼配、堆、蒸汽压制成型、干燥",
+    "flavor": "香气纯正或带松烟香，汤色橙黄，滋味醇和",
+    "compositions": [],
+    "teaName": "紧压茶第1部分：花砖茶",
+    "sourceFile": "OCR_GBT9833.1_GBT9833.1-2013紧压茶第1部分：花砖茶.md"
+  },
+  "OCR_GBT9833.2_GBT9833.2-2013紧压茶第2部分：黑砖茶.md": {
+    "origin": "",
+    "process": "毛茶分半成品拼配、漏堆，蒸汽压制成型、干燥、成品包装",
+    "flavor": "香气纯正或带松烟香，汤色橙黄，滋味醇和微涩",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 21.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第2部分：黑砖茶",
+    "sourceFile": "OCR_GBT9833.2_GBT9833.2-2013紧压茶第2部分：黑砖茶.md"
+  },
+  "OCR_GBT9833.3_GBT9833.3-2013紧压茶第3部分：茯砖茶.md": {
+    "origin": "",
+    "process": "毛茶筛分、半成品拼配、渥堆、蒸汽压制成型、发花、干燥",
+    "flavor": "香气纯正，汤色橙黄，滋味纯和，无涩味",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 20.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第3部分：茯砖茶",
+    "sourceFile": "OCR_GBT9833.3_GBT9833.3-2013紧压茶第3部分：茯砖茶.md"
+  },
+  "OCR_GBT9833.4_GBT9833.4-2013紧压茶第4部分：康砖茶.md": {
+    "origin": "四川雅安及周边地区",
+    "process": "毛茶整理、半成品拼配、蒸汽压制定型、干燥成品包装",
+    "flavor": "香气纯正，陈香显，汤色红亮，滋味醇厚",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 28.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第4部分：康砖茶",
+    "sourceFile": "OCR_GBT9833.4_GBT9833.4-2013紧压茶第4部分：康砖茶.md"
+  },
+  "OCR_GBT9833.5_GBT9833.5-2013紧压茶第5部分：沱茶.md": {
+    "origin": "",
+    "process": "以晒青毛茶为主要原料，经渥堆、筛分、拣剔、半成品拼配、蒸汽压制定型、干燥、成品包装等工艺过程制成",
+    "flavor": "香气纯浓，汤色橙黄尚明，滋味浓醇",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 36.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第5部分：沱茶",
+    "sourceFile": "OCR_GBT9833.5_GBT9833.5-2013紧压茶第5部分：沱茶.md"
+  },
+  "OCR_GBT9833.6_GBT9833.6-2013紧压茶第6部分：紧茶.md": {
+    "origin": "",
+    "process": "毛茶匀堆筛分、拣剔、堆、拼配、蒸汽压制定型、干燥、成品包装",
+    "flavor": "香气纯正，汤色橙红尚明，滋味浓厚",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 36.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第6部分：紧茶",
+    "sourceFile": "OCR_GBT9833.6_GBT9833.6-2013紧压茶第6部分：紧茶.md"
+  },
+  "OCR_GBT9833.7_GBT9833.7-2013紧压茶第7部分：金尖茶.md": {
+    "origin": "四川雅安及周边地区",
+    "process": "毛茶整理、半成品拼配、蒸汽压制定型、干燥成品包装",
+    "flavor": "香气纯正、陈香显，汤色红亮，滋味淳正",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 21.5,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第7部分：金尖茶",
+    "sourceFile": "OCR_GBT9833.7_GBT9833.7-2013紧压茶第7部分：金尖茶.md"
+  },
+  "OCR_GBT9833.8_GBT9833.8-2013紧压茶第8部分：米砖茶.md": {
+    "origin": "",
+    "process": "以红茶为原料，经过筛分、蒸汽压制定型、干燥、成品包装等工艺过程制成",
+    "flavor": "特级米砖茶香气纯正、滋味浓醇、汤色深红、叶底红匀；普通米砖茶香气平正、滋味尚浓醇、汤色深红、叶底红暗",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 29.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第8部分：米砖茶",
+    "sourceFile": "OCR_GBT9833.8_GBT9833.8-2013紧压茶第8部分：米砖茶.md"
+  },
+  "OCR_GBT9833.9_GBT9833.9-2013紧压茶第9部分：青砖茶.md": {
+    "origin": "",
+    "process": "以老青茶为主要原料，经过蒸汽压制定型，干燥，成品包装等工艺过程制成",
+    "flavor": "香气纯正、滋味醇和、汤色橙红",
+    "compositions": [
+      {
+        "name": "水浸出物",
+        "value": 21.0,
+        "unit": "%"
+      }
+    ],
+    "teaName": "紧压茶第9部分：青砖茶",
+    "sourceFile": "OCR_GBT9833.9_GBT9833.9-2013紧压茶第9部分：青砖茶.md"
+  }
+}

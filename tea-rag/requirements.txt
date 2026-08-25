@@ -1,0 +1,16 @@
+# Web 框架
+fastapi
+uvicorn[standard]
+
+# 配置
+python-dotenv
+pydantic
+
+# LangChain 核心 + 集成
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+
+# 向量库
+chromadb

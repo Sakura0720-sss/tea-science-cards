@@ -1,0 +1,45 @@
+# ===== Python (tea-rag) =====
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 环境变量（含真实 API 密钥，绝不提交）
+.env
+
+# 向量库本地数据（可重建）
+**/chroma_db/
+
+# 中间产物（PDF 源文件 + 转出的图片，体积大且可重新生成）
+**/data/images/
+**/data/pdfs/
+
+# ===== Java (tea-backend) =====
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+
+# SQLite 数据库文件（运行时生成）
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== Node / 前端 (tea-frontend) =====
+node_modules/
+unpackage/
+dist/
+
+# ===== IDE / 系统 =====
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# ===== 临时文件 =====
+*.log
+_result.txt
+_r.txt

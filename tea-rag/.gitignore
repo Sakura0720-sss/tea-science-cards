@@ -1,0 +1,26 @@
+# 虚拟环境
+.venv/
+venv/
+
+# 环境变量（含密钥，勿提交）
+.env
+
+# 向量库本地数据
+chroma_db/
+
+# 中间产物（PDF 源文件 + 转出的图片，体积大，可重新生成）
+data/images/
+data/pdfs/
+
+# 误放的用户主目录拷贝（勿提交）
+scripts/王浚为/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
