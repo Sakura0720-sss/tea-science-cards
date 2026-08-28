@@ -50,11 +50,11 @@ export function getTeaDetail(id) {
 
 // ===== 问答相关（Python RAG） =====
 
-/** RAG 问答 */
-export function askQuestion(question) {
+/** RAG 问答（history 为多轮对话历史，形如 [{role, content}]） */
+export function askQuestion(question, history = []) {
 	return request(`${AI_BASE}/ask`, {
 		method: 'POST',
-		data: { question }
+		data: { question, history }
 	})
 }
 

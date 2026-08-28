@@ -216,12 +216,14 @@ export default {
 		async send() {
 			const q = this.question.trim()
 			if (!q || this.asking) return
+			// 历史 = 当前消息列表（不含刚加入的这条 user 消息）
+			const history = this.messages.map(m => ({ role: m.role, content: m.content }))
 			this.messages.push({ role: 'user', content: q })
 			this.question = ''
 			this.asking = true
 			this.scrollChatBottom()
 			try {
-				const res = await askQuestion(q)
+				const res = await askQuestion(q, history)
 				this.messages.push({
 					role: 'assistant',
 					content: res.answer,

@@ -17,8 +17,14 @@ app.add_middleware(
 )
 
 
+class ChatMessage(BaseModel):
+    role: str  # user / assistant
+    content: str
+
+
 class AskRequest(BaseModel):
     question: str
+    history: list[ChatMessage] = []  # 多轮对话历史，可选
 
 
 class AskResponse(BaseModel):
@@ -36,7 +42,8 @@ def ask_endpoint(req: AskRequest):
     if not req.question.strip():
         raise HTTPException(status_code=400, detail="问题不能为空")
     try:
-        return ask(req.question)
+        history = [m.model_dump() for m in req.history]
+        return ask(req.question, history)
     except RuntimeError as e:
         # 密钥缺失等配置错误，返回清晰提示而非 500 堆栈
         raise HTTPException(status_code=500, detail=str(e))

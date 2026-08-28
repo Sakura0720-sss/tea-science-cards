@@ -39,6 +39,9 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Claude Code 本地配置
+.claude/
+
 # ===== 临时文件 =====
 *.log
 _result.txt

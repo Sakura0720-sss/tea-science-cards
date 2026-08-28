@@ -12,6 +12,9 @@ PROMPT_TEMPLATE = """你是专业的茶叶知识助手。请**只根据**下面�
 2. 回答准确、简洁，使用中文。
 3. 回答末尾用「参考：」列出本次用到的来源。
 
+【历史对话】
+{history}
+
 【资料】
 {context}
 
@@ -19,6 +22,21 @@ PROMPT_TEMPLATE = """你是专业的茶叶知识助手。请**只根据**下面�
 {question}
 
 【回答】"""
+
+# 问题改写 prompt：把带指代的多轮提问改写成独立完整的问题
+REWRITE_PROMPT = """下面是用户和茶叶助手的对话历史，以及用户的最新问题。
+
+请把最新问题改写成**独立完整的问题**，消解其中的指代（如「它」「这个」「那种茶」等要替换成具体茶名），使其脱离上下文也能看懂。
+
+只输出改写后的问题，不要输出任何其他文字。
+
+【历史对话】
+{history}
+
+【最新问题】
+{question}
+
+【改写后的问题】"""
 
 # 查询中的停用词/疑问词，提取关键词时排除
 _QUERY_STOPWORDS = {
@@ -140,17 +158,59 @@ def hybrid_search(question: str, k: int = None):
     return result[:k]
 
 
-def ask(question: str) -> dict:
-    """输入问题，返回 {answer, sources}。"""
-    docs = hybrid_search(question)
+def _format_history(history: list[dict]) -> str:
+    """把对话历史格式化成文本。history 形如 [{"role": "user", "content": "..."}, ...]"""
+    if not history:
+        return "（无）"
+    lines = []
+    for msg in history:
+        role = "用户" if msg.get("role") == "user" else "助手"
+        content = msg.get("content", "").strip()
+        if content:
+            lines.append(f"{role}：{content}")
+    return "\n".join(lines) if lines else "（无）"
+
+
+def _rewrite_question(question: str, history: list[dict]) -> str:
+    """把带指代的问题改写成独立完整的问题。无历史时直接返回原问题。"""
+    if not history:
+        return question
+    llm = get_llm()
+    prompt = REWRITE_PROMPT.format(
+        history=_format_history(history[-6:]),  # 只保留最近 6 条，避免太长
+        question=question,
+    )
+    try:
+        rewritten = llm.invoke(prompt).content.strip()
+        # 去掉可能的引号包裹
+        rewritten = rewritten.strip('"').strip("“”").strip()
+        return rewritten if rewritten else question
+    except Exception:
+        return question
+
+
+def ask(question: str, history: list[dict] = None) -> dict:
+    """输入问题（可选历史），返回 {answer, sources}。"""
+    history = history or []
+
+    # 1) 问题改写：消解「它」「这个」等指代，让检索更准
+    search_question = _rewrite_question(question, history)
+
+    # 2) 用改写后的问题检索
+    docs = hybrid_search(search_question)
 
     context = "\n\n".join(
         f"（来源：{d.metadata.get('source', '未知')}）\n{d.page_content}" for d in docs
     )
     sources = [d.metadata.get("source", "未知") for d in docs]
 
+    # 3) 生成答案（prompt 带上历史）
     llm = get_llm()
-    prompt = PROMPT_TEMPLATE.format(context=context, question=question)
+    prompt = PROMPT_TEMPLATE.format(
+        history=_format_history(history[-6:]),
+        context=context,
+        question=question,
+    )
     answer = llm.invoke(prompt).content
 
     return {"answer": answer, "sources": sources}
